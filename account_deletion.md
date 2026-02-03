@@ -9,7 +9,7 @@ Redstar allows users to request deletion of their account and associated persona
 
 ## How to request account deletion
 
-To request deletion of your VeBy account:
+To request deletion of your Redstar account:
 
 1. Send an email to **redstarpolymers.dev@gmail.com**
 2. Use the subject: **Redstar Account Deletion Request**
