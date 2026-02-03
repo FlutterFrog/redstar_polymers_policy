@@ -3,7 +3,7 @@
 **App Name:** Redstar Loyalty
 **Developer:** Redstar Polymers Private Limited  
 
-VeBy allows users to request deletion of their account and associated personal data.
+Redstar allows users to request deletion of their account and associated personal data.
 
 ---
 
